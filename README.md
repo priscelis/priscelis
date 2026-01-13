@@ -1,49 +1,65 @@
-# 👋 Hi there! Welcome to my GitHub space 💫
+# 👋 Hi! Welcome to my GitHub 👩‍💻✨
 
-I'm **Priscelis**, a **Junior Fullstack Web Developer** who loves learning, building, and growing every day 🚀  
+I'm **Priscelis**, a **Junior Fullstack Developer** with a strong interest in **Backend development** and building real-world, scalable applications.
 
-💻 I’m a **Junior Fullstack Developer** and I’m still learning how to build complete web applications — from beautiful user interfaces to solid backend systems.
+I’m a curious and motivated developer who enjoys learning every day, working in teams, and turning ideas into functional solutions. I believe good software is built not only with clean code, but also with collaboration and empathy 🚀
 
 ---
 
-## 🚀 Tech Stack Skills
+## 🎯 Focus Area
+🔧 **Backend Development & Fullstack Projects**  
+I’m especially interested in:
+- API design and development  
+- Databases & data modeling  
+- Authentication & business logic  
+- Backend architecture for real applications  
 
-### 🌐 Frontend Magic
+---
+
+## 🚀 Tech Stack
+
+### 🌐 Frontend
 - HTML5  
 - CSS3  
 - JavaScript  
+- TypeScript  
 - React  
+- Tailwind CSS  
 
-### ⚙️ Backend Power
+### ⚙️ Backend
 - Node.js  
 - Express  
-- MySQL  
+- SQL & MySQL  
 - MongoDB  
+- Sequelize  
+- Mongoose  
+
+### 🧰 Dev & Tools
+- Git & GitHub  
+- GitHub Projects  
+- Docker (intro)  
+- Linux / Bash Terminal  
 
 ---
 
-## 🛠️ Tools I Use
-- Git  
-- GitHub  
+## 🌱 Currently
+- Building **fullstack projects with backend focus**  
+- Strengthening **JavaScript, TypeScript & backend logic**  
+- Improving collaboration workflows with Git & GitHub  
 
 ---
 
-## 🌈 My Mission
-To keep improving as a developer and work on projects that blend **creativity, logic, and clean code**.
+## 🌍 Languages
+- 🇪🇸 Spanish — Native  
+- 🇬🇧 English — C1  
 
 ---
 
-## 🌱 Currently Growing
-- Building **fullstack projects**  
-- Leveling up my **JavaScript & React** skills  
-- Practicing **Git & GitHub** to collaborate with other developers  
-
----
-
-## 📫 Let’s Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+## 📫 Let’s Connect
+- 💼 [LinkedIn](www.linkedin.com/in/priscelis-codrington-5195b0206 ) 
+- 🧑‍💻 [GitHub](https://github.com/priscelis)  
 - 📧 **prisceliscodrington@gmail.com**
 
 ---
 
-✨ *Thanks for stopping by! I’m always excited to learn, build, and collaborate.*  
+✨ *Always learning, always building. Open to collaboration and new challenges.*  
